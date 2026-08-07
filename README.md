@@ -1,2 +1,3 @@
 # Power-BI-Assignment
-today assigment
+today assignment
+day 2 assignment
